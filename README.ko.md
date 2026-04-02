@@ -5,9 +5,9 @@
   <img src="Resources/icon.png" alt="DCTravelerX Logo" width="180" />
 
 <p>
-  <a href="https://github.com/AtmoOmen/DalamudPlugins"><img alt="Latest Release" src="https://img.shields.io/github/v/release/Dalamud-DailyRoutines/DailyRoutines?display_name=release&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=for-the-badge" /></a>
-  <a href="https://github.com/AtmoOmen/DalamudPlugins"><img alt="Downloads" src="https://img.shields.io/github/downloads/AtmoOmen/DalamudPlugins/total?label=下载(旧)&style=for-the-badge" /></a>
-  <a href="https://github.com/AtmoOmen/DalamudPlugins"><img alt="Downloads" src="https://img.shields.io/github/downloads/Dalamud-DailyRoutines/DailyRoutines/total?label=下载(新)&style=for-the-badge" /></a>
+  <a href="https://github.com/AtmoOmen/DalamudPlugins"><img alt="최신 버전" src="https://img.shields.io/github/v/release/Dalamud-DailyRoutines/DailyRoutines?display_name=release&label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&style=for-the-badge" /></a>
+  <a href="https://github.com/AtmoOmen/DalamudPlugins"><img alt="다운로드(구)" src="https://img.shields.io/github/downloads/AtmoOmen/DalamudPlugins/total?label=%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%28%EA%B5%AC%29&style=for-the-badge" /></a>
+  <a href="https://github.com/AtmoOmen/DalamudPlugins"><img alt="다운로드(신)" src="https://img.shields.io/github/downloads/Dalamud-DailyRoutines/DailyRoutines/total?label=%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%28%EC%8B%A0%29&style=for-the-badge" /></a>
   <a href="https://discord.gg/dailyroutines"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
 </p>
 
