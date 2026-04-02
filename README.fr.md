@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Daily Routines</h1>
-  <h5>海量切实提高游戏质量和体验的自动化与易用性改动模块集合</h5>
+  <h5>Une vaste collection, en constante évolution, de modules d'automatisation et d'amélioration de l'ergonomie qui améliorent concrètement la qualité et l'expérience de jeu</h5>
   <img src="Resources/icon.png" alt="DCTravelerX Logo" width="180" />
 
 <p>
@@ -15,30 +15,30 @@
 
 </div>
 
-## 功能特色
+## Fonctionnalités
 
-**300+ 持续增长、涵盖游戏方方面面、从小到大无所不包的各种模块**
+**Plus de 300 modules, et ce nombre continue d'augmenter, couvrant presque tous les aspects du jeu, des petits conforts aux améliorations majeures**
 
-## 下载使用
+## Installation
 
-1. 前往 [插件库发布页面](https://github.com/AtmoOmen/DalamudPlugins) 获取仓库链接
-2. 打开 **Dalamud 设置 - 插件 - 第三方插件** 页面, 填入仓库链接后, 点击设置页最上方的保存按钮
-3. 打开 **Dalamud 插件** 页面, 搜索并下载安装 `Daily Routines` 插件
+1. Rendez-vous sur la [page de publication du dépôt de plugins](https://github.com/AtmoOmen/DalamudPlugins) pour récupérer l'URL du dépôt
+2. Ouvrez **Dalamud Settings - Experimental - Third-Party Plugins**, collez l'URL du dépôt, puis cliquez sur le bouton d'enregistrement en bas à droite de la page des paramètres
+3. Ouvrez **Dalamud Plugins**, recherchez `Daily Routines`, puis installez le plugin
 
-## 多语言支持 / 贡献
+## Localisation / Contribution
 
 <a href="https://explore.transifex.com/dailyroutines/dailyroutines/">
   <img src="https://img.shields.io/badge/Transifex-中文 | English | 日本語 | 한국어 | Français | Deutsch-ff6600?logo=transifex&logoColor=white&style=for-the-badge" />
 </a>
 
-## 免责声明
+## Avertissement
 
-- 本项目为第三方工具, 与 `SQUARE ENIX`、`盛趣游戏` 均无附属关系。
-- 使用任何第三方工具都可能伴随潜在风险, 请自行评估并承担后果。
-- 项目以社区维护为主, 不承诺对所有环境、所有外部服务异常都提供即时支持。
+- Ce projet est un outil tiers et n'est pas affilié à `SQUARE ENIX`.
+- L'utilisation de tout outil tiers peut comporter des risques potentiels. Veuillez les évaluer vous-même et l'utiliser sous votre propre responsabilité.
+- Ce projet est principalement maintenu par la communauté et ne garantit pas une assistance immédiate pour tous les environnements ou tous les problèmes liés aux services externes.
 
 ---
 
 <div align="center">
-  <sub>Final Fantasy XIV © SQUARE ENIX CO., LTD. / 盛趣游戏。<br />本项目仅为社区维护的第三方工具</sub>
+  <sub>Final Fantasy XIV © SQUARE ENIX CO., LTD.<br />Ce projet est un outil tiers maintenu par la communauté.</sub>
 </div>

@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Daily Routines</h1>
-  <h5>海量切实提高游戏质量和体验的自动化与易用性改动模块集合</h5>
+  <h5>A large and growing collection of automation and usability modules that genuinely improve gameplay quality and overall experience</h5>
   <img src="Resources/icon.png" alt="DCTravelerX Logo" width="180" />
 
 <p>
@@ -15,30 +15,30 @@
 
 </div>
 
-## 功能特色
+## Features
 
-**300+ 持续增长、涵盖游戏方方面面、从小到大无所不包的各种模块**
+**300+ and still growing modules covering nearly every part of the game, from tiny conveniences to major improvements**
 
-## 下载使用
+## Installation
 
-1. 前往 [插件库发布页面](https://github.com/AtmoOmen/DalamudPlugins) 获取仓库链接
-2. 打开 **Dalamud 设置 - 插件 - 第三方插件** 页面, 填入仓库链接后, 点击设置页最上方的保存按钮
-3. 打开 **Dalamud 插件** 页面, 搜索并下载安装 `Daily Routines` 插件
+1. Visit the [plugin repository release page](https://github.com/AtmoOmen/DalamudPlugins) to get the repository URL
+2. Open **Dalamud Settings - Experimental - Third-Party Plugins**, paste the repository URL, then click the save button at the bottom-right of the settings page
+3. Open **Dalamud Plugins**, search for `Daily Routines`, and install the plugin
 
-## 多语言支持 / 贡献
+## Localization / Contributing
 
 <a href="https://explore.transifex.com/dailyroutines/dailyroutines/">
   <img src="https://img.shields.io/badge/Transifex-中文 | English | 日本語 | 한국어 | Français | Deutsch-ff6600?logo=transifex&logoColor=white&style=for-the-badge" />
 </a>
 
-## 免责声明
+## Disclaimer
 
-- 本项目为第三方工具, 与 `SQUARE ENIX`、`盛趣游戏` 均无附属关系。
-- 使用任何第三方工具都可能伴随潜在风险, 请自行评估并承担后果。
-- 项目以社区维护为主, 不承诺对所有环境、所有外部服务异常都提供即时支持。
+- This project is a third-party tool and is not affiliated with `SQUARE ENIX`.
+- Any third-party tool may involve potential risks. Please evaluate them yourself and use it at your own discretion.
+- This project is primarily maintained by the community and does not guarantee immediate support for every environment or every external service issue.
 
 ---
 
 <div align="center">
-  <sub>Final Fantasy XIV © SQUARE ENIX CO., LTD. / 盛趣游戏。<br />本项目仅为社区维护的第三方工具</sub>
+  <sub>Final Fantasy XIV © SQUARE ENIX CO., LTD.<br />This project is a community-maintained third-party tool.</sub>
 </div>
