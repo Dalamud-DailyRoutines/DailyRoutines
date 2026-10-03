@@ -1,0 +1,8412 @@
+{
+  "815": [
+    {
+      "Zone": 815,
+      "Position": {
+        "X": -73.99998,
+        "Y": -53.077766,
+        "Z": 746.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": 90.999985,
+        "Y": -111.23146,
+        "Z": 416.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": 356.00006,
+        "Y": -30.154749,
+        "Z": -449.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": 356.00006,
+        "Y": -36.492584,
+        "Z": 231.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": 366.0,
+        "Y": -18.45692,
+        "Z": -53.999996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": 456.00006,
+        "Y": -90.02128,
+        "Z": 680.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": 466.0,
+        "Y": -37.87281,
+        "Z": -383.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": 566.0,
+        "Y": -102.47858,
+        "Z": 621.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": 601.00006,
+        "Y": -28.767918,
+        "Z": 6.000042
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": -559.0,
+        "Y": -1.6459497,
+        "Z": -489.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": -493.99997,
+        "Y": 25.57213,
+        "Z": -104.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": -248.99998,
+        "Y": 6.231859,
+        "Z": 131.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": -238.99994,
+        "Y": 37.949745,
+        "Z": -569.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": -223.99998,
+        "Y": -62.992012,
+        "Z": 511.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": -113.99994,
+        "Y": 30.400898,
+        "Z": -268.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": -113.99994,
+        "Y": -32.634693,
+        "Z": 161.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": -88.99994,
+        "Y": -61.798454,
+        "Z": 376.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 815,
+      "Position": {
+        "X": 61.00006,
+        "Y": 45.619087,
+        "Z": -574.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "402": [
+    {
+      "Zone": 402,
+      "Position": {
+        "X": -717.89484,
+        "Y": -48.911922,
+        "Z": 572.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": -652.8948,
+        "Y": -88.58262,
+        "Z": 197.10522
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": -567.8948,
+        "Y": -68.96809,
+        "Z": 392.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": -487.89478,
+        "Y": -90.21032,
+        "Z": 787.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": -432.8948,
+        "Y": -165.75,
+        "Z": -282.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": -322.89478,
+        "Y": -90.20816,
+        "Z": 342.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": -257.8948,
+        "Y": -162.59201,
+        "Z": -702.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": -202.89479,
+        "Y": -160.87292,
+        "Z": -467.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": 242.10521,
+        "Y": 58.293217,
+        "Z": -337.89478
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": 257.10526,
+        "Y": -73.05467,
+        "Z": -567.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": 357.10526,
+        "Y": 24.702568,
+        "Z": 627.10516
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": 367.1052,
+        "Y": 23.5,
+        "Z": 312.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": 507.10526,
+        "Y": -37.26993,
+        "Z": -842.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": 562.10516,
+        "Y": -24.02372,
+        "Z": -482.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": 592.1053,
+        "Y": 48.779255,
+        "Z": 202.10524
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": 667.1053,
+        "Y": 12.4492035,
+        "Z": 412.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": 687.1052,
+        "Y": 9.004334,
+        "Z": 582.1053
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": 692.1053,
+        "Y": -14.373917,
+        "Z": 732.1053
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": 762.1052,
+        "Y": -25.42544,
+        "Z": -772.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 402,
+      "Position": {
+        "X": 822.1052,
+        "Y": 1.6848383,
+        "Z": 252.10524
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "148": [
+    {
+      "Zone": 148,
+      "Position": {
+        "X": -599.0,
+        "Y": 20.715303,
+        "Z": -229.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": -574.0,
+        "Y": 10.982049,
+        "Z": -129.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": -554.0,
+        "Y": 61.03396,
+        "Z": 11.000061
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": -493.99997,
+        "Y": 65.35679,
+        "Z": 106.000046
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": -468.99997,
+        "Y": 62.725372,
+        "Z": -104.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": -433.99997,
+        "Y": 60.0754,
+        "Z": -34.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": -364.0,
+        "Y": 60.587395,
+        "Z": -98.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": -283.99997,
+        "Y": 61.3593,
+        "Z": -88.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": -279.0,
+        "Y": 19.795055,
+        "Z": 126.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": -273.99997,
+        "Y": 63.086548,
+        "Z": -13.999939
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": -238.99994,
+        "Y": 69.28355,
+        "Z": -184.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": -118.99996,
+        "Y": 10.155037,
+        "Z": -159.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": 6.000042,
+        "Y": -33.11115,
+        "Z": 426.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": 11.000061,
+        "Y": 5.2044716,
+        "Z": -259.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": 26.000023,
+        "Y": -6.9567847,
+        "Z": 151.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": 96.00001,
+        "Y": -21.434486,
+        "Z": 301.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": 261.00006,
+        "Y": -10.551203,
+        "Z": -43.999958
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": 276.00003,
+        "Y": -3.7543578,
+        "Z": 56.000042
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": 341.0,
+        "Y": -0.17429306,
+        "Z": 26.000023
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": 361.00006,
+        "Y": -0.46778268,
+        "Z": -349.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": 381.00006,
+        "Y": 3.85121,
+        "Z": -104.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": 406.00006,
+        "Y": 21.888306,
+        "Z": 90.999985
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 148,
+      "Position": {
+        "X": 481.00006,
+        "Y": 43.93065,
+        "Z": -143.99995
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "141": [
+    {
+      "Zone": 141,
+      "Position": {
+        "X": -259.00003,
+        "Y": 23.683607,
+        "Z": -454.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": -259.00003,
+        "Y": 28.0,
+        "Z": -98.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": -243.99997,
+        "Y": 23.037676,
+        "Z": -254.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": -223.99998,
+        "Y": -30.510565,
+        "Z": 90.999985
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": -179.0,
+        "Y": 20.780043,
+        "Z": -129.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": -173.99998,
+        "Y": 11.981563,
+        "Z": -399.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": -163.99994,
+        "Y": 16.265173,
+        "Z": -198.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": -129.0,
+        "Y": 0.91297144,
+        "Z": 186.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": -118.99996,
+        "Y": -1.8088055,
+        "Z": 11.000061
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": -98.99998,
+        "Y": 0.19202043,
+        "Z": 111.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": -48.999977,
+        "Y": 1.6972218,
+        "Z": 231.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": -34.000015,
+        "Y": 14.098202,
+        "Z": -254.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": 6.000042,
+        "Y": 3.2447777,
+        "Z": -18.999958
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": 11.000061,
+        "Y": 18.0,
+        "Z": -393.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": 21.000004,
+        "Y": 12.252882,
+        "Z": -293.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": 46.000004,
+        "Y": 15.462736,
+        "Z": 496.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": 111.00006,
+        "Y": 9.658184,
+        "Z": 676.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": 121.00001,
+        "Y": 6.6215324,
+        "Z": 521.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": 196.00002,
+        "Y": 6.0496445,
+        "Z": -179.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": 215.99998,
+        "Y": 20.361391,
+        "Z": 416.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": 286.00006,
+        "Y": -10.633925,
+        "Z": 1.0000229
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": 311.00006,
+        "Y": -19.718353,
+        "Z": -173.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 141,
+      "Position": {
+        "X": 401.00003,
+        "Y": -13.395643,
+        "Z": -28.999996
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "155": [
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -869.0,
+        "Y": 238.67647,
+        "Z": -243.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -794.0,
+        "Y": 244.96587,
+        "Z": -168.99995
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -813.99994,
+        "Y": 250.27573,
+        "Z": -273.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -754.0,
+        "Y": 226.57086,
+        "Z": -79.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -744.0,
+        "Y": 240.95969,
+        "Z": 361.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -629.0,
+        "Y": 200.08723,
+        "Z": -479.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -629.0,
+        "Y": 210.265,
+        "Z": -399.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -634.0,
+        "Y": 221.37633,
+        "Z": -333.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -659.0,
+        "Y": 224.51776,
+        "Z": -23.999977
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -624.0,
+        "Y": 248.16606,
+        "Z": 286.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -534.0,
+        "Y": 191.1075,
+        "Z": -433.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -549.0,
+        "Y": 218.63263,
+        "Z": -163.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -493.99997,
+        "Y": 239.64075,
+        "Z": -93.99996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -524.0,
+        "Y": 243.97484,
+        "Z": 291.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -524.0,
+        "Y": 237.58961,
+        "Z": 371.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -489.0,
+        "Y": 206.3026,
+        "Z": -364.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -404.0,
+        "Y": 301.75626,
+        "Z": 190.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -443.99997,
+        "Y": 243.89076,
+        "Z": 326.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -358.99997,
+        "Y": 230.70996,
+        "Z": -173.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -358.99997,
+        "Y": 256.62433,
+        "Z": -84.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -329.0,
+        "Y": 265.6497,
+        "Z": 206.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -304.0,
+        "Y": 258.4288,
+        "Z": -148.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -283.99997,
+        "Y": 278.76477,
+        "Z": 296.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -298.99997,
+        "Y": 246.25008,
+        "Z": 361.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -234.00002,
+        "Y": 269.09894,
+        "Z": -48.999977
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -198.99998,
+        "Y": 287.44696,
+        "Z": -134.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -188.99994,
+        "Y": 228.33357,
+        "Z": 391.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -93.99996,
+        "Y": 303.26114,
+        "Z": -138.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -84.000015,
+        "Y": 221.28638,
+        "Z": 386.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -43.999958,
+        "Y": 306.97232,
+        "Z": -263.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": -3.9999962,
+        "Y": 230.60284,
+        "Z": 336.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 1.0000229,
+        "Y": 308.14362,
+        "Z": -134.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 71.00001,
+        "Y": 374.34158,
+        "Z": -674.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 96.00001,
+        "Y": 253.90683,
+        "Z": 266.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 156.00005,
+        "Y": 282.76593,
+        "Z": -73.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 131.00005,
+        "Y": 281.60028,
+        "Z": 11.000061
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 156.00005,
+        "Y": 363.01422,
+        "Z": -619.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 190.99998,
+        "Y": 350.7537,
+        "Z": -514.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 165.99998,
+        "Y": 341.5157,
+        "Z": -399.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 156.00005,
+        "Y": 270.02698,
+        "Z": 111.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 206.00005,
+        "Y": 243.75433,
+        "Z": 206.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 276.00003,
+        "Y": 306.19498,
+        "Z": -404.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 281.00006,
+        "Y": 289.7432,
+        "Z": -43.999958
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 331.00006,
+        "Y": 340.43436,
+        "Z": -504.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 346.0,
+        "Y": 303.00912,
+        "Z": -333.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 296.0,
+        "Y": 272.37433,
+        "Z": 31.000042
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 331.00006,
+        "Y": 246.43663,
+        "Z": 206.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 371.0,
+        "Y": 349.00696,
+        "Z": -689.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 391.0,
+        "Y": 227.69254,
+        "Z": 311.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 431.00006,
+        "Y": 365.39087,
+        "Z": -544.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 431.00006,
+        "Y": 344.12793,
+        "Z": -443.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 441.0,
+        "Y": 221.09848,
+        "Z": 416.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 461.00006,
+        "Y": 208.23131,
+        "Z": 476.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 530.99994,
+        "Y": 350.0524,
+        "Z": -719.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 501.00003,
+        "Y": 309.04474,
+        "Z": -358.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 521.0,
+        "Y": 303.7273,
+        "Z": -223.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 566.0,
+        "Y": 288.93225,
+        "Z": 106.000046
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 680.99994,
+        "Y": 295.78006,
+        "Z": -308.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 666.0,
+        "Y": 286.72028,
+        "Z": 61.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 155,
+      "Position": {
+        "X": 716.0,
+        "Y": 285.00308,
+        "Z": 76.00002
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "397": [
+    {
+      "Zone": 397,
+      "Position": {
+        "X": -797.8948,
+        "Y": 106.58081,
+        "Z": -507.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": -627.8948,
+        "Y": 96.66016,
+        "Z": -467.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": -547.8948,
+        "Y": 118.94699,
+        "Z": -262.89484
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": -372.89478,
+        "Y": 92.381836,
+        "Z": -522.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": -262.89484,
+        "Y": 212.08751,
+        "Z": 162.10518
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": -292.89474,
+        "Y": 216.65553,
+        "Z": 357.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": -227.89479,
+        "Y": 91.577644,
+        "Z": -472.89478
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": -222.89478,
+        "Y": 113.07865,
+        "Z": -177.89479
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": -192.89474,
+        "Y": 111.62839,
+        "Z": 432.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": -32.894802,
+        "Y": 104.30321,
+        "Z": -242.89474
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": -22.894764,
+        "Y": 99.81831,
+        "Z": -92.894745
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 47.105217,
+        "Y": 214.90776,
+        "Z": 277.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 122.10522,
+        "Y": 221.22517,
+        "Z": 492.10532
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 177.10524,
+        "Y": 136.72272,
+        "Z": -547.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 272.10522,
+        "Y": 130.79962,
+        "Z": -737.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 247.10522,
+        "Y": 131.39339,
+        "Z": -332.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 297.10522,
+        "Y": 174.87561,
+        "Z": -52.894783
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 342.1052,
+        "Y": 162.91684,
+        "Z": -477.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 372.10522,
+        "Y": 166.3438,
+        "Z": 212.10518
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 497.10522,
+        "Y": 162.2752,
+        "Z": -247.89478
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 577.10516,
+        "Y": 208.61435,
+        "Z": -87.89482
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 562.10516,
+        "Y": 165.96959,
+        "Z": -2.894783
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 657.1053,
+        "Y": 130.79962,
+        "Z": -647.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 397,
+      "Position": {
+        "X": 687.1052,
+        "Y": 185.03177,
+        "Z": -502.8948
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "137": [
+    {
+      "Zone": 137,
+      "Position": {
+        "X": -333.99997,
+        "Y": 44.374725,
+        "Z": 366.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": -323.99997,
+        "Y": 45.23584,
+        "Z": 456.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": -204.0,
+        "Y": 44.374725,
+        "Z": 421.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": -248.99998,
+        "Y": 47.77261,
+        "Z": 561.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": -223.99998,
+        "Y": 57.768433,
+        "Z": 621.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": -159.00002,
+        "Y": 35.0367,
+        "Z": 236.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": -179.0,
+        "Y": 38.54898,
+        "Z": 301.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": -59.000015,
+        "Y": 43.635063,
+        "Z": 186.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": -98.99998,
+        "Y": 39.932076,
+        "Z": 491.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 1.0000229,
+        "Y": 40.62452,
+        "Z": 341.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": -9.000015,
+        "Y": 40.237427,
+        "Z": 406.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": -9.000015,
+        "Y": 47.868595,
+        "Z": 476.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": -48.999977,
+        "Y": 53.072243,
+        "Z": 586.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 36.00006,
+        "Y": 45.813324,
+        "Z": 186.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 201.00003,
+        "Y": 81.71077,
+        "Z": -59.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 196.00002,
+        "Y": 78.91608,
+        "Z": 15.999985
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 371.0,
+        "Y": 76.07921,
+        "Z": -109.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 356.00006,
+        "Y": 76.198814,
+        "Z": -43.999958
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 411.00006,
+        "Y": 76.11485,
+        "Z": -9.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 446.0,
+        "Y": 76.17845,
+        "Z": -109.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 476.00003,
+        "Y": 76.17845,
+        "Z": -79.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 215.99998,
+        "Y": 63.042866,
+        "Z": 616.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 256.00006,
+        "Y": 40.595688,
+        "Z": 471.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 261.00006,
+        "Y": 48.35218,
+        "Z": 586.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 301.00003,
+        "Y": 43.899223,
+        "Z": 176.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 331.00006,
+        "Y": 37.777805,
+        "Z": 251.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 341.0,
+        "Y": 37.720387,
+        "Z": 326.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 371.0,
+        "Y": 25.471954,
+        "Z": 705.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 431.00006,
+        "Y": 35.38908,
+        "Z": 176.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 461.00006,
+        "Y": 14.333765,
+        "Z": 261.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 530.99994,
+        "Y": 8.72472,
+        "Z": 286.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 137,
+      "Position": {
+        "X": 516.0,
+        "Y": 8.633005,
+        "Z": 736.00006
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "152": [
+    {
+      "Zone": 152,
+      "Position": {
+        "X": -393.99997,
+        "Y": 0.4960019,
+        "Z": 86.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": -354.0,
+        "Y": 0.040610127,
+        "Z": 190.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": -349.0,
+        "Y": 6.3869214,
+        "Z": 306.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": -293.99997,
+        "Y": 5.9637284,
+        "Z": 121.00001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": -234.00002,
+        "Y": 12.815232,
+        "Z": 11.000061
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": -204.0,
+        "Y": 8.796233,
+        "Z": 71.00001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": -118.99996,
+        "Y": -3.4808395,
+        "Z": 196.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": -73.99998,
+        "Y": -0.18436801,
+        "Z": 361.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": -13.999939,
+        "Y": 19.440878,
+        "Z": 15.999985
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 26.000023,
+        "Y": -3.0625274,
+        "Z": 331.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 31.000042,
+        "Y": 6.239684,
+        "Z": 406.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 76.00002,
+        "Y": 9.740472,
+        "Z": 11.000061
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 140.99998,
+        "Y": -23.622206,
+        "Z": -314.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 126.00002,
+        "Y": -29.43381,
+        "Z": -248.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 115.999985,
+        "Y": 12.131078,
+        "Z": 471.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 176.00003,
+        "Y": -26.258,
+        "Z": -579.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 146.0,
+        "Y": -23.710093,
+        "Z": -489.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 165.99998,
+        "Y": -29.968716,
+        "Z": -204.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 190.99998,
+        "Y": 0.54375327,
+        "Z": 106.000046
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 251.00003,
+        "Y": -23.070282,
+        "Z": -514.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 221.00002,
+        "Y": -22.115221,
+        "Z": -418.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 211.00006,
+        "Y": -4.7450714,
+        "Z": -59.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 215.99998,
+        "Y": 7.643093,
+        "Z": 186.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 261.00006,
+        "Y": -21.459957,
+        "Z": -268.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 276.00003,
+        "Y": -12.667046,
+        "Z": -179.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 316.0,
+        "Y": -16.51335,
+        "Z": -138.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 311.00006,
+        "Y": -0.9324936,
+        "Z": 156.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 331.00006,
+        "Y": -27.855518,
+        "Z": -439.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 306.00006,
+        "Y": -5.2942324,
+        "Z": 56.000042
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 401.00003,
+        "Y": -27.868935,
+        "Z": -499.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 376.00003,
+        "Y": -2.2618146,
+        "Z": -48.999977
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 421.0,
+        "Y": -28.25,
+        "Z": -408.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 441.0,
+        "Y": -18.386967,
+        "Z": -204.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 521.0,
+        "Y": -21.462898,
+        "Z": -304.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 152,
+      "Position": {
+        "X": 511.00006,
+        "Y": -12.179624,
+        "Z": 1.0000229
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "145": [
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -554.0,
+        "Y": -10.476776,
+        "Z": -118.99996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -433.99997,
+        "Y": -1.7450752,
+        "Z": -279.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -439.0,
+        "Y": -8.761421,
+        "Z": -129.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -429.0,
+        "Y": -23.531029,
+        "Z": 376.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -343.99997,
+        "Y": -11.959688,
+        "Z": -259.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -339.0,
+        "Y": -12.743794,
+        "Z": -138.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -343.99997,
+        "Y": -36.77169,
+        "Z": 231.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -289.0,
+        "Y": -22.604353,
+        "Z": -68.99996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -304.0,
+        "Y": -35.015903,
+        "Z": 271.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -204.0,
+        "Y": -31.294832,
+        "Z": -73.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -198.99998,
+        "Y": -30.376755,
+        "Z": -3.9999962
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -243.99997,
+        "Y": -26.475481,
+        "Z": 221.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -204.0,
+        "Y": -28.663107,
+        "Z": 326.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -204.0,
+        "Y": -37.896374,
+        "Z": 161.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -179.0,
+        "Y": -35.770912,
+        "Z": 201.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -123.99998,
+        "Y": -31.861727,
+        "Z": 51.000023
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -93.99996,
+        "Y": -26.703411,
+        "Z": 346.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -84.000015,
+        "Y": -56.723648,
+        "Z": 140.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": -53.999996,
+        "Y": -20.920898,
+        "Z": 351.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 65.999985,
+        "Y": 5.0424223,
+        "Z": -93.99996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 96.00001,
+        "Y": 2.565166,
+        "Z": 71.00001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 76.00002,
+        "Y": -15.58169,
+        "Z": 261.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 136.00006,
+        "Y": 8.921331,
+        "Z": -123.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 121.00001,
+        "Y": 0.0062115937,
+        "Z": -9.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 176.00003,
+        "Y": 14.058208,
+        "Z": 86.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 196.00002,
+        "Y": -27.076519,
+        "Z": 206.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 215.99998,
+        "Y": 3.8086827,
+        "Z": -193.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 291.0,
+        "Y": 3.6099038,
+        "Z": -179.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 261.00006,
+        "Y": 7.711365,
+        "Z": -113.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 261.00006,
+        "Y": -16.998878,
+        "Z": 176.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 326.00003,
+        "Y": 11.163637,
+        "Z": -9.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 326.00003,
+        "Y": -1.6392719,
+        "Z": 215.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 391.0,
+        "Y": -19.261858,
+        "Z": 261.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 145,
+      "Position": {
+        "X": 406.00006,
+        "Y": 23.39612,
+        "Z": -209.00002
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "816": [
+    {
+      "Zone": 816,
+      "Position": {
+        "X": -699.0,
+        "Y": 35.38937,
+        "Z": 65.999985
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": -669.0,
+        "Y": 40.24677,
+        "Z": 281.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": -589.0,
+        "Y": 65.09192,
+        "Z": 456.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": -549.0,
+        "Y": 11.450423,
+        "Z": -63.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": -519.0,
+        "Y": 37.990673,
+        "Z": -283.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": -379.0,
+        "Y": 70.59247,
+        "Z": 636.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": -109.000015,
+        "Y": 4.77884,
+        "Z": 296.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": -79.0,
+        "Y": 28.87331,
+        "Z": 671.0001
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": 81.000046,
+        "Y": 0.61975664,
+        "Z": 361.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": 136.00006,
+        "Y": 3.5852427,
+        "Z": 561.00006
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": 176.00003,
+        "Y": 0.3,
+        "Z": 791.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": -73.99998,
+        "Y": 54.067997,
+        "Z": -649.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": 201.00003,
+        "Y": 77.16003,
+        "Z": -734.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": 286.00006,
+        "Y": 40.7354,
+        "Z": -123.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": 386.00006,
+        "Y": 89.88064,
+        "Z": -809.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": 501.00003,
+        "Y": 91.99254,
+        "Z": -389.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 816,
+      "Position": {
+        "X": 641.0,
+        "Y": 110.27444,
+        "Z": -709.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "814": [
+    {
+      "Zone": 814,
+      "Position": {
+        "X": -493.99997,
+        "Y": 341.9011,
+        "Z": -143.99995
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": -323.99997,
+        "Y": 364.06085,
+        "Z": -283.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": -234.00002,
+        "Y": 463.2282,
+        "Z": -729.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": -88.99994,
+        "Y": 409.94495,
+        "Z": -544.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": -9.000015,
+        "Y": 318.33853,
+        "Z": 71.00001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": 26.000023,
+        "Y": 351.01736,
+        "Z": -368.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": 65.999985,
+        "Y": 339.61252,
+        "Z": -198.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": 176.00003,
+        "Y": 327.9372,
+        "Z": -504.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": 256.00006,
+        "Y": 304.91452,
+        "Z": -113.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": 486.00006,
+        "Y": 287.32446,
+        "Z": -93.99996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": -604.0,
+        "Y": 54.471687,
+        "Z": 196.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": -318.99997,
+        "Y": 53.82633,
+        "Z": 136.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": -23.999977,
+        "Y": 15.590861,
+        "Z": 481.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": 151.00003,
+        "Y": 21.393402,
+        "Z": 436.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": 266.0,
+        "Y": 36.32746,
+        "Z": 136.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": 421.0,
+        "Y": 13.36506,
+        "Z": 416.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 814,
+      "Position": {
+        "X": 651.00006,
+        "Y": 40.01643,
+        "Z": 151.00003
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "813": [
+    {
+      "Zone": 813,
+      "Position": {
+        "X": -674.0,
+        "Y": 69.19437,
+        "Z": 71.00001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": -483.99997,
+        "Y": 72.20251,
+        "Z": -433.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": -493.99997,
+        "Y": 12.409418,
+        "Z": -213.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": -374.0,
+        "Y": -1.7079053,
+        "Z": 161.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": -84.000015,
+        "Y": 94.532776,
+        "Z": -594.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": -148.99998,
+        "Y": -0.3719597,
+        "Z": 76.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": 81.000046,
+        "Y": 109.665565,
+        "Z": -458.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": 306.00006,
+        "Y": 113.24411,
+        "Z": -298.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": 401.00003,
+        "Y": 116.20622,
+        "Z": -118.99996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": 81.000046,
+        "Y": -1.8563468,
+        "Z": 416.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": 206.00005,
+        "Y": 11.245253,
+        "Z": 115.999985
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": 271.0,
+        "Y": 16.503832,
+        "Z": 801.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": 311.00006,
+        "Y": 6.158518,
+        "Z": 451.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": 471.0,
+        "Y": 2.6111429,
+        "Z": 36.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": 696.0001,
+        "Y": 25.122723,
+        "Z": -273.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": 761.00006,
+        "Y": 80.736404,
+        "Z": -458.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": 691.0,
+        "Y": 3.0668511,
+        "Z": 530.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 813,
+      "Position": {
+        "X": 721.0001,
+        "Y": 9.903924,
+        "Z": 266.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "135": [
+    {
+      "Zone": 135,
+      "Position": {
+        "X": -229.0,
+        "Y": -0.27100003,
+        "Z": 696.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": -113.99994,
+        "Y": 4.885826,
+        "Z": 696.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": -63.99994,
+        "Y": 53.626816,
+        "Z": 526.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": -68.99996,
+        "Y": 33.913742,
+        "Z": 641.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": -73.99998,
+        "Y": 3.4106522,
+        "Z": 801.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": -43.999958,
+        "Y": 39.55201,
+        "Z": 705.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 61.00006,
+        "Y": 40.80487,
+        "Z": 651.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 81.000046,
+        "Y": 57.066727,
+        "Z": 726.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 71.00001,
+        "Y": 30.334692,
+        "Z": 836.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 181.00005,
+        "Y": 43.312042,
+        "Z": 46.000004
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 140.99998,
+        "Y": 59.704147,
+        "Z": 251.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 221.00002,
+        "Y": 31.773552,
+        "Z": 165.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 246.00002,
+        "Y": 39.201042,
+        "Z": 240.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 376.00003,
+        "Y": 74.857414,
+        "Z": -223.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 351.00003,
+        "Y": 72.32092,
+        "Z": -163.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 356.00006,
+        "Y": 56.367603,
+        "Z": -48.999977
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 426.00003,
+        "Y": 80.454834,
+        "Z": -358.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 501.00003,
+        "Y": 70.89381,
+        "Z": -248.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 576.00006,
+        "Y": 72.50703,
+        "Z": -268.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 135,
+      "Position": {
+        "X": 601.00006,
+        "Y": 66.10622,
+        "Z": -198.99998
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "134": [
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -379.0,
+        "Y": 26.373291,
+        "Z": -393.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -379.0,
+        "Y": 36.068665,
+        "Z": -493.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -314.0,
+        "Y": 14.167854,
+        "Z": -308.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -273.99997,
+        "Y": 24.564323,
+        "Z": -534.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -259.00003,
+        "Y": 16.975464,
+        "Z": -374.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -243.99997,
+        "Y": 34.076817,
+        "Z": -679.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -218.99997,
+        "Y": 32.29792,
+        "Z": -499.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -218.99997,
+        "Y": 38.020382,
+        "Z": -218.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -143.99995,
+        "Y": 33.362568,
+        "Z": -604.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -159.00002,
+        "Y": 16.275414,
+        "Z": -408.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -154.0,
+        "Y": 46.18046,
+        "Z": -159.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -138.99994,
+        "Y": 42.34549,
+        "Z": -259.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -113.99994,
+        "Y": 45.59365,
+        "Z": -59.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -53.999996,
+        "Y": 45.28033,
+        "Z": -389.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -63.99994,
+        "Y": 44.484043,
+        "Z": -9.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -79.0,
+        "Y": 42.328934,
+        "Z": 46.000004
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -38.99994,
+        "Y": 48.694874,
+        "Z": -293.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": -23.999977,
+        "Y": 53.94098,
+        "Z": -159.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": 90.999985,
+        "Y": 70.389404,
+        "Z": -223.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": 71.00001,
+        "Y": 47.974174,
+        "Z": 51.000023
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": 121.00001,
+        "Y": 64.45845,
+        "Z": -88.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": 146.0,
+        "Y": 58.879604,
+        "Z": -28.999996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": 86.00006,
+        "Y": 46.376633,
+        "Z": 136.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 134,
+      "Position": {
+        "X": 181.00005,
+        "Y": 48.321968,
+        "Z": 96.00001
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "156": [
+    {
+      "Zone": 156,
+      "Position": {
+        "X": -479.0,
+        "Y": -4.0531044,
+        "Z": -483.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": -439.0,
+        "Y": -17.148405,
+        "Z": -383.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": -393.99997,
+        "Y": -17.148405,
+        "Z": -464.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": -374.0,
+        "Y": -4.476923,
+        "Z": -549.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": -364.0,
+        "Y": -17.148403,
+        "Z": -379.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": -289.0,
+        "Y": -15.987801,
+        "Z": -483.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": -273.99997,
+        "Y": -3.990507,
+        "Z": -554.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": -254.0,
+        "Y": 0.61875933,
+        "Z": -293.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": -234.00002,
+        "Y": 23.06819,
+        "Z": -204.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": -118.99996,
+        "Y": 3.4883704,
+        "Z": -669.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 86.00006,
+        "Y": -3.5407648,
+        "Z": -539.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 96.00001,
+        "Y": -7.677967,
+        "Z": -464.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 171.00002,
+        "Y": -6.3388505,
+        "Z": -539.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 186.00006,
+        "Y": -27.790693,
+        "Z": -433.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 266.0,
+        "Y": -23.107512,
+        "Z": -439.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 266.0,
+        "Y": 32.22839,
+        "Z": -649.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 281.00006,
+        "Y": 9.669327,
+        "Z": -629.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 296.0,
+        "Y": -3.2626133,
+        "Z": -544.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 341.0,
+        "Y": -18.043203,
+        "Z": -393.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 367.01462,
+        "Y": -16.315891,
+        "Z": -335.3639
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 381.00006,
+        "Y": -4.3417773,
+        "Z": -689.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 381.00006,
+        "Y": 22.755737,
+        "Z": -749.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 431.00006,
+        "Y": -20.725658,
+        "Z": -318.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 456.00006,
+        "Y": -4.746357,
+        "Z": -754.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 496.0,
+        "Y": 0.8685483,
+        "Z": -508.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 541.0,
+        "Y": -9.787201,
+        "Z": -729.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 551.00006,
+        "Y": -5.752913,
+        "Z": -644.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 541.0,
+        "Y": 22.18432,
+        "Z": -564.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 546.0001,
+        "Y": -4.582015,
+        "Z": -354.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 156,
+      "Position": {
+        "X": 605.99994,
+        "Y": 9.95236,
+        "Z": -468.99997
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "154": [
+    {
+      "Zone": 154,
+      "Position": {
+        "X": -279.0,
+        "Y": -50.987457,
+        "Z": 336.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": -238.99994,
+        "Y": -26.194527,
+        "Z": 196.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": -163.99994,
+        "Y": -60.83603,
+        "Z": 371.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": -163.99994,
+        "Y": -50.66527,
+        "Z": 276.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": -143.99995,
+        "Y": -9.415201,
+        "Z": -53.999996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": -104.0,
+        "Y": -53.424446,
+        "Z": 356.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 1.0000229,
+        "Y": -47.78308,
+        "Z": 426.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 56.000042,
+        "Y": 6.8074017,
+        "Z": -38.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 31.000042,
+        "Y": -9.314701,
+        "Z": 115.999985
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 96.00001,
+        "Y": 8.692173,
+        "Z": -79.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 46.000004,
+        "Y": -40.28755,
+        "Z": 331.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 146.0,
+        "Y": 6.469508,
+        "Z": -59.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 161.00006,
+        "Y": -27.112331,
+        "Z": 211.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 151.00003,
+        "Y": -40.394222,
+        "Z": 341.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 221.00002,
+        "Y": -10.683788,
+        "Z": 61.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 215.99998,
+        "Y": -26.341532,
+        "Z": 226.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 306.00006,
+        "Y": -9.626461,
+        "Z": 36.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 321.0,
+        "Y": -8.727065,
+        "Z": 140.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 276.00003,
+        "Y": -15.069115,
+        "Z": 286.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 154,
+      "Position": {
+        "X": 356.00006,
+        "Y": -3.0058181,
+        "Z": 6.000042
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "147": [
+    {
+      "Zone": 147,
+      "Position": {
+        "X": -304.0,
+        "Y": 79.56176,
+        "Z": -148.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": -273.99997,
+        "Y": 83.98353,
+        "Z": -343.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": -273.99997,
+        "Y": 84.86423,
+        "Z": -273.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": -259.00003,
+        "Y": 70.14007,
+        "Z": -104.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": -209.00002,
+        "Y": 83.51361,
+        "Z": -289.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": -234.00002,
+        "Y": 80.50634,
+        "Z": -223.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": -163.99994,
+        "Y": 75.91466,
+        "Z": -198.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": -138.99994,
+        "Y": 70.27627,
+        "Z": -173.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": -123.99998,
+        "Y": 73.90442,
+        "Z": -234.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": -43.999958,
+        "Y": 5.312801,
+        "Z": 316.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": -18.999958,
+        "Y": 23.186409,
+        "Z": 176.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": 36.00006,
+        "Y": 12.540933,
+        "Z": 276.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": 121.00001,
+        "Y": 28.378233,
+        "Z": 65.999985
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": 106.000046,
+        "Y": 19.984327,
+        "Z": 131.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": 140.99998,
+        "Y": 23.424595,
+        "Z": 86.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": 96.00001,
+        "Y": 15.972843,
+        "Z": 240.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 147,
+      "Position": {
+        "X": 106.000046,
+        "Y": 21.824646,
+        "Z": 190.99998
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "180": [
+    {
+      "Zone": 180,
+      "Position": {
+        "X": -399.0,
+        "Y": 47.232857,
+        "Z": -263.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": -368.99997,
+        "Y": 59.499672,
+        "Z": -368.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": -293.99997,
+        "Y": 5.6436677,
+        "Z": -559.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": -304.0,
+        "Y": 32.441814,
+        "Z": -439.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": -314.0,
+        "Y": 64.603645,
+        "Z": -333.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": -339.0,
+        "Y": 55.82044,
+        "Z": -229.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": -318.99997,
+        "Y": 63.73461,
+        "Z": -173.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": -254.0,
+        "Y": 63.78101,
+        "Z": -184.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": -123.99998,
+        "Y": 79.81648,
+        "Z": -318.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 1.0000229,
+        "Y": 24.113377,
+        "Z": -734.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": -9.000015,
+        "Y": 49.57912,
+        "Z": -343.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 46.000004,
+        "Y": 23.398027,
+        "Z": -734.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 11.000061,
+        "Y": 22.688372,
+        "Z": -659.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 15.999985,
+        "Y": 24.26804,
+        "Z": -599.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 21.000004,
+        "Y": 24.29831,
+        "Z": -559.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 106.000046,
+        "Y": 24.872305,
+        "Z": -614.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 76.00002,
+        "Y": 48.492756,
+        "Z": -414.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 71.00001,
+        "Y": 57.49931,
+        "Z": -314.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 76.00002,
+        "Y": 66.54442,
+        "Z": -263.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 156.00005,
+        "Y": 67.93633,
+        "Z": -263.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 151.00003,
+        "Y": 21.768894,
+        "Z": -709.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 276.00003,
+        "Y": 21.610514,
+        "Z": -813.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 180,
+      "Position": {
+        "X": 296.0,
+        "Y": 21.498041,
+        "Z": -714.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "153": [
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -283.99997,
+        "Y": 14.817276,
+        "Z": -88.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -263.99994,
+        "Y": 0.25837678,
+        "Z": 306.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -289.0,
+        "Y": 1.5207034,
+        "Z": 351.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -259.00003,
+        "Y": 5.3539443,
+        "Z": 526.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -229.0,
+        "Y": 10.243677,
+        "Z": -154.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -223.99998,
+        "Y": 9.070634,
+        "Z": -3.9999962
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -229.0,
+        "Y": 15.063233,
+        "Z": 106.000046
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -213.99994,
+        "Y": 0.7114155,
+        "Z": 451.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -213.99994,
+        "Y": 4.1115756,
+        "Z": 546.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -163.99994,
+        "Y": -0.4239092,
+        "Z": 471.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -134.00002,
+        "Y": 11.49777,
+        "Z": -148.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -143.99995,
+        "Y": 7.448837,
+        "Z": 26.000023
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -104.0,
+        "Y": 2.4583833,
+        "Z": 296.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -123.99998,
+        "Y": -0.42488274,
+        "Z": 361.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -3.9999962,
+        "Y": 1.2833307,
+        "Z": 306.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": 31.000042,
+        "Y": 6.4561343,
+        "Z": -109.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": -3.9999962,
+        "Y": 7.90496,
+        "Z": 1.0000229
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": 56.000042,
+        "Y": 20.287655,
+        "Z": 211.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": 56.000042,
+        "Y": 5.156548,
+        "Z": 56.000042
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": 76.00002,
+        "Y": 25.45542,
+        "Z": 131.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": 140.99998,
+        "Y": 19.323137,
+        "Z": -159.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": 311.00006,
+        "Y": 11.577569,
+        "Z": -188.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": 271.0,
+        "Y": 13.793202,
+        "Z": -79.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": 276.00003,
+        "Y": 6.9928813,
+        "Z": 61.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": 371.0,
+        "Y": 1.5827141,
+        "Z": 156.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": 451.00003,
+        "Y": 3.8087578,
+        "Z": 206.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": 511.00006,
+        "Y": 14.063017,
+        "Z": 111.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 153,
+      "Position": {
+        "X": 561.00006,
+        "Y": 21.72636,
+        "Z": 121.00001
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "146": [
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -383.99997,
+        "Y": 6.366681,
+        "Z": 671.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -333.99997,
+        "Y": 6.0951295,
+        "Z": 871.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -273.99997,
+        "Y": 5.0715494,
+        "Z": -59.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -273.99997,
+        "Y": 9.343346,
+        "Z": 151.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -213.99994,
+        "Y": 23.607096,
+        "Z": -489.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -213.99994,
+        "Y": 3.7574368,
+        "Z": -229.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -238.99994,
+        "Y": 9.137408,
+        "Z": 86.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -223.99998,
+        "Y": 7.654747,
+        "Z": 215.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -229.0,
+        "Y": 12.441902,
+        "Z": 580.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -268.99997,
+        "Y": 2.5715182,
+        "Z": 766.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -173.99998,
+        "Y": 18.238653,
+        "Z": -564.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -159.00002,
+        "Y": 22.058044,
+        "Z": -514.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -154.0,
+        "Y": 6.157389,
+        "Z": -13.999939
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -148.99998,
+        "Y": 7.297116,
+        "Z": 71.00001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -129.0,
+        "Y": 8.133453,
+        "Z": 456.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -93.99996,
+        "Y": 14.631887,
+        "Z": -213.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -88.99994,
+        "Y": -5.1820097,
+        "Z": -109.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -84.000015,
+        "Y": 43.30315,
+        "Z": 161.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -118.99996,
+        "Y": -4.6438913,
+        "Z": 846.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -59.000015,
+        "Y": 7.2033014,
+        "Z": 356.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -9.000015,
+        "Y": 7.4146957,
+        "Z": -534.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -3.9999962,
+        "Y": 2.3168797,
+        "Z": -34.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -18.999958,
+        "Y": 7.346183,
+        "Z": 71.00001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -13.999939,
+        "Y": 41.071007,
+        "Z": 246.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 6.000042,
+        "Y": 7.8646064,
+        "Z": 421.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": -13.999939,
+        "Y": 26.375576,
+        "Z": 536.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 15.999985,
+        "Y": 9.245226,
+        "Z": 641.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 86.00006,
+        "Y": 2.3792205,
+        "Z": -679.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 101.00002,
+        "Y": 11.712124,
+        "Z": 591.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 51.000023,
+        "Y": 1.7548535,
+        "Z": 861.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 115.999985,
+        "Y": 10.18502,
+        "Z": -454.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 136.00006,
+        "Y": 8.48754,
+        "Z": -9.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 146.0,
+        "Y": 8.068781,
+        "Z": 171.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 121.00001,
+        "Y": 6.9092073,
+        "Z": 451.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 156.00005,
+        "Y": 2.4910812,
+        "Z": -609.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 156.00005,
+        "Y": 8.88681,
+        "Z": -499.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 151.00003,
+        "Y": 4.3180733,
+        "Z": 776.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 181.00005,
+        "Y": 3.2489595,
+        "Z": 966.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 351.00003,
+        "Y": 9.298335,
+        "Z": -34.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 351.00003,
+        "Y": 6.8944407,
+        "Z": 666.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 476.00003,
+        "Y": 7.723978,
+        "Z": -154.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 146,
+      "Position": {
+        "X": 571.0001,
+        "Y": 7.6028333,
+        "Z": -79.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "622": [
+    {
+      "Zone": 622,
+      "Position": {
+        "X": -449.0,
+        "Y": 52.825348,
+        "Z": -209.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": -399.0,
+        "Y": 75.11111,
+        "Z": -554.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": -204.0,
+        "Y": 31.403917,
+        "Z": -129.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": -109.000015,
+        "Y": 82.70023,
+        "Z": -564.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": 40.999985,
+        "Y": 32.83703,
+        "Z": -273.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": 296.0,
+        "Y": 119.243835,
+        "Z": -624.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": 321.0,
+        "Y": 10.717979,
+        "Z": -134.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": 321.0,
+        "Y": -0.08007361,
+        "Z": 211.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": 655.99994,
+        "Y": 15.734236,
+        "Z": -323.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": -594.0,
+        "Y": 42.93339,
+        "Z": 40.999985
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": -589.0,
+        "Y": 69.36313,
+        "Z": 221.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": -508.99997,
+        "Y": 16.490822,
+        "Z": 341.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": -323.99997,
+        "Y": 22.35753,
+        "Z": 201.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": -293.99997,
+        "Y": 6.9698596,
+        "Z": 441.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": -204.0,
+        "Y": 7.9504285,
+        "Z": 646.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": 15.999985,
+        "Y": 38.247112,
+        "Z": 636.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": 136.00006,
+        "Y": -15.624479,
+        "Z": 441.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 622,
+      "Position": {
+        "X": 261.00006,
+        "Y": -33.72686,
+        "Z": 641.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "400": [
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -2.894783,
+        "Y": -21.441074,
+        "Z": 427.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": 167.1052,
+        "Y": 211.98634,
+        "Z": -732.89484
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": 302.10526,
+        "Y": -36.170547,
+        "Z": -112.89482
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": 287.1052,
+        "Y": 234.00075,
+        "Z": -597.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": 472.10522,
+        "Y": 24.109304,
+        "Z": 507.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": 547.1052,
+        "Y": -4.468956,
+        "Z": -82.894806
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": 677.10516,
+        "Y": -31.345856,
+        "Z": 327.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": 732.1053,
+        "Y": 32.170177,
+        "Z": 182.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -782.89484,
+        "Y": 265.20764,
+        "Z": -112.89482
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -807.89484,
+        "Y": 173.20383,
+        "Z": 657.1053
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -757.89484,
+        "Y": 90.75366,
+        "Z": -542.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -732.89484,
+        "Y": 90.02683,
+        "Z": -337.89478
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -652.8948,
+        "Y": 248.69514,
+        "Z": -702.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -627.8948,
+        "Y": 167.12527,
+        "Z": 807.1053
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -337.89478,
+        "Y": 34.942333,
+        "Z": 387.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": 117.1052,
+        "Y": -25.468235,
+        "Z": -102.89478
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": 192.10521,
+        "Y": 26.034863,
+        "Z": 252.10524
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -527.8948,
+        "Y": 107.21026,
+        "Z": -112.89482
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -427.8948,
+        "Y": 40.007187,
+        "Z": 47.105217
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -367.8948,
+        "Y": 123.92147,
+        "Z": -402.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -217.89474,
+        "Y": 41.055904,
+        "Z": 92.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 400,
+      "Position": {
+        "X": -282.8948,
+        "Y": 40.763443,
+        "Z": 277.10526
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "398": [
+    {
+      "Zone": 398,
+      "Position": {
+        "X": -612.8948,
+        "Y": -96.53632,
+        "Z": 632.1053
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": -512.8948,
+        "Y": -37.16647,
+        "Z": 252.10524
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": -412.89478,
+        "Y": -81.90923,
+        "Z": 442.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": -232.8948,
+        "Y": -79.82545,
+        "Z": 812.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": -127.89478,
+        "Y": -71.07789,
+        "Z": 382.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": -72.89477,
+        "Y": -123.81168,
+        "Z": 562.10516
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": 117.1052,
+        "Y": -122.419464,
+        "Z": 497.10522
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": 262.1052,
+        "Y": -110.7484,
+        "Z": 412.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": -57.894802,
+        "Y": -33.91775,
+        "Z": -137.89482
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": 157.10526,
+        "Y": -81.7142,
+        "Z": 112.10518
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": 192.10521,
+        "Y": 52.20215,
+        "Z": -752.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": 317.1052,
+        "Y": -61.40835,
+        "Z": -37.89482
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": 567.1053,
+        "Y": 52.213455,
+        "Z": -697.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": -282.8948,
+        "Y": -39.875393,
+        "Z": -562.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": -447.89478,
+        "Y": -39.875393,
+        "Z": -377.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": 242.10521,
+        "Y": -123.75911,
+        "Z": 737.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": 497.10522,
+        "Y": -42.731167,
+        "Z": -212.89482
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": 612.10516,
+        "Y": -25.46479,
+        "Z": -452.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": 607.1053,
+        "Y": -36.449608,
+        "Z": 312.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 398,
+      "Position": {
+        "X": 807.1053,
+        "Y": -38.252716,
+        "Z": 157.10526
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "399": [
+    {
+      "Zone": 399,
+      "Position": {
+        "X": 72.10522,
+        "Y": 71.20066,
+        "Z": 47.105217
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": 187.10518,
+        "Y": 220.29642,
+        "Z": 717.1053
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": 207.10526,
+        "Y": 62.558052,
+        "Z": -297.89478
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": 217.10521,
+        "Y": 77.281265,
+        "Z": -122.89477
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": 217.10521,
+        "Y": 71.50103,
+        "Z": 147.10522
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": 202.10524,
+        "Y": 135.09113,
+        "Z": 342.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": 467.1052,
+        "Y": 79.970055,
+        "Z": -117.894745
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": 572.1052,
+        "Y": 79.15141,
+        "Z": 77.10524
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": 582.1053,
+        "Y": 94.76493,
+        "Z": 217.10521
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": 672.1052,
+        "Y": 100.22724,
+        "Z": -32.894802
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": 772.1052,
+        "Y": 161.8721,
+        "Z": 292.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": -857.89484,
+        "Y": 164.31369,
+        "Z": -22.894764
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": -657.89484,
+        "Y": 153.37463,
+        "Z": -57.894802
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": -472.89478,
+        "Y": 144.44167,
+        "Z": -307.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": -372.89478,
+        "Y": 153.29521,
+        "Z": 147.10522
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": -372.89478,
+        "Y": 147.96011,
+        "Z": -47.894764
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": -702.8948,
+        "Y": 136.82971,
+        "Z": 572.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": -697.8948,
+        "Y": 172.85704,
+        "Z": 282.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": -497.89478,
+        "Y": 153.18973,
+        "Z": 337.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": -402.8948,
+        "Y": 198.98517,
+        "Z": 657.1053
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": -352.8948,
+        "Y": 136.82971,
+        "Z": 477.10516
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 399,
+      "Position": {
+        "X": -317.89474,
+        "Y": 200.1376,
+        "Z": 762.1052
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "612": [
+    {
+      "Zone": 612,
+      "Position": {
+        "X": -639.0,
+        "Y": 75.563034,
+        "Z": 186.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": -659.0,
+        "Y": 35.561226,
+        "Z": 451.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": -554.0,
+        "Y": 107.09969,
+        "Z": -349.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": -458.99997,
+        "Y": 81.93567,
+        "Z": -173.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": -354.0,
+        "Y": 98.604935,
+        "Z": -454.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": -188.99994,
+        "Y": 58.16595,
+        "Z": -439.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": -159.00002,
+        "Y": 58.57102,
+        "Z": -654.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": -304.0,
+        "Y": 47.146973,
+        "Z": 240.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": -238.99994,
+        "Y": 39.92145,
+        "Z": 140.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": -198.99998,
+        "Y": 41.599705,
+        "Z": 11.000061
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": 186.00006,
+        "Y": 38.179337,
+        "Z": 346.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": 215.99998,
+        "Y": 48.641346,
+        "Z": 516.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": 311.00006,
+        "Y": 74.89464,
+        "Z": 101.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": 591.0,
+        "Y": 79.6145,
+        "Z": 596.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": 655.99994,
+        "Y": 152.43306,
+        "Z": -198.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": -13.999939,
+        "Y": 58.264557,
+        "Z": -549.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": 131.00005,
+        "Y": 43.09477,
+        "Z": -163.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": 190.99998,
+        "Y": 54.736572,
+        "Z": -483.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": 371.0,
+        "Y": 60.58712,
+        "Z": 466.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 612,
+      "Position": {
+        "X": 616.0,
+        "Y": 121.30485,
+        "Z": -28.999996
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "621": [
+    {
+      "Zone": 621,
+      "Position": {
+        "X": 676.00006,
+        "Y": 17.398409,
+        "Z": -514.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": -689.0,
+        "Y": 91.502594,
+        "Z": -368.99997
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": -379.0,
+        "Y": 10.341442,
+        "Z": -43.999958
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": -134.00002,
+        "Y": -0.11597528,
+        "Z": 211.00006
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": -844.0,
+        "Y": 95.018616,
+        "Z": 391.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": 371.0,
+        "Y": 25.0,
+        "Z": -679.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": -123.99998,
+        "Y": 5.3963203,
+        "Z": 516.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": -704.0,
+        "Y": 49.633087,
+        "Z": 240.99998
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": 151.00003,
+        "Y": 11.7715,
+        "Z": 566.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": -919.0,
+        "Y": 80.537796,
+        "Z": 676.00006
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": -754.0,
+        "Y": 76.49399,
+        "Z": -664.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": -729.0,
+        "Y": 96.93813,
+        "Z": 481.00006
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": 246.00002,
+        "Y": 23.111216,
+        "Z": 651.00006
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": 431.00006,
+        "Y": 25.00305,
+        "Z": 741.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": 96.00001,
+        "Y": 1.6345462,
+        "Z": 221.00002
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": 176.00003,
+        "Y": -0.111983865,
+        "Z": -248.99998
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": -554.0,
+        "Y": 93.66984,
+        "Z": 611.00006
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": -159.00002,
+        "Y": 43.0,
+        "Z": -699.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 621,
+      "Position": {
+        "X": 51.0,
+        "Y": 10.0,
+        "Z": -559.0
+      },
+      "CancelAnimation": false
+    }
+  ],
+  "620": [
+    {
+      "Zone": 620,
+      "Position": {
+        "X": -639.0,
+        "Y": 61.369976,
+        "Z": -458.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": -514.0,
+        "Y": 46.773262,
+        "Z": -664.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": 90.999985,
+        "Y": 118.36826,
+        "Z": -329.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": 190.99998,
+        "Y": 189.051,
+        "Z": -68.99996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": 741.0,
+        "Y": 256.15308,
+        "Z": -449.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": -784.0,
+        "Y": 272.15274,
+        "Z": 666.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": -684.0,
+        "Y": 314.0599,
+        "Z": 215.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": -489.0,
+        "Y": 262.12405,
+        "Z": 571.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": -443.99997,
+        "Y": 286.48935,
+        "Z": 341.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": -238.99994,
+        "Y": 304.70654,
+        "Z": 81.000046
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": -168.99995,
+        "Y": 299.4712,
+        "Z": 261.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": 111.00006,
+        "Y": 304.97772,
+        "Z": 136.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": 106.000046,
+        "Y": 305.34195,
+        "Z": 755.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": -794.0,
+        "Y": 79.90124,
+        "Z": -333.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": 271.0,
+        "Y": 114.35658,
+        "Z": -679.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": 236.00006,
+        "Y": 114.37864,
+        "Z": -474.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": 526.00006,
+        "Y": 221.98865,
+        "Z": -659.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 620,
+      "Position": {
+        "X": 256.00006,
+        "Y": 314.27954,
+        "Z": 416.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "817": [
+    {
+      "Zone": 817,
+      "Position": {
+        "X": -654.0,
+        "Y": 6.346094,
+        "Z": 651.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": -599.0,
+        "Y": 20.106457,
+        "Z": -148.99998
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": -589.0,
+        "Y": 1.8821477,
+        "Z": 131.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": -464.0,
+        "Y": -0.3,
+        "Z": 716.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": -364.0,
+        "Y": 5.797006,
+        "Z": 36.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": -323.99997,
+        "Y": 17.35284,
+        "Z": 436.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": -223.99998,
+        "Y": 13.0636425,
+        "Z": 140.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": -188.99994,
+        "Y": 10.006065,
+        "Z": 671.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": 176.00003,
+        "Y": -14.908617,
+        "Z": 446.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": 231.00005,
+        "Y": 17.325993,
+        "Z": 131.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": 396.0,
+        "Y": 31.279148,
+        "Z": 215.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": 596.0001,
+        "Y": 22.550848,
+        "Z": 65.999985
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": 15.999985,
+        "Y": -5.075721,
+        "Z": -399.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": 46.000004,
+        "Y": -19.993591,
+        "Z": -539.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 817,
+      "Position": {
+        "X": 236.00006,
+        "Y": 3.9361227,
+        "Z": -323.99997
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "613": [
+    {
+      "Zone": 613,
+      "Position": {
+        "X": -824.0,
+        "Y": 51.163284,
+        "Z": 71.00001
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": -729.0,
+        "Y": 20.621214,
+        "Z": 416.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": -349.0,
+        "Y": -170.00003,
+        "Z": -379.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": 286.00006,
+        "Y": 1.5743256,
+        "Z": 506.00006
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": 476.00003,
+        "Y": 2.1862254,
+        "Z": 861.00006
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": -129.0,
+        "Y": 0.858002,
+        "Z": -644.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": 226.00003,
+        "Y": 0.8050942,
+        "Z": -724.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": 526.00006,
+        "Y": -0.13289392,
+        "Z": 140.99998
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": 190.99998,
+        "Y": -172.0,
+        "Z": 236.00006
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": -699.0,
+        "Y": 17.616285,
+        "Z": -779.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": -248.99998,
+        "Y": 2.0032248,
+        "Z": -544.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": 676.00006,
+        "Y": 1.6400434,
+        "Z": -18.999958
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": 751.00006,
+        "Y": 64.51859,
+        "Z": -173.99998
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 613,
+      "Position": {
+        "X": 121.00001,
+        "Y": 3.0978942,
+        "Z": 586.00006
+      },
+      "CancelAnimation": false
+    }
+  ],
+  "401": [
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -802.8948,
+        "Y": -13.877,
+        "Z": -162.89482
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -677.8948,
+        "Y": -58.413918,
+        "Z": -292.89474
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -357.8948,
+        "Y": 68.398926,
+        "Z": -397.89478
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -162.89482,
+        "Y": -13.6536665,
+        "Z": -652.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -47.894764,
+        "Y": 127.714516,
+        "Z": -327.89478
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 37.10518,
+        "Y": 12.663778,
+        "Z": -627.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 127.10524,
+        "Y": 11.805372,
+        "Z": -472.89478
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -437.89478,
+        "Y": -152.7372,
+        "Z": 332.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -397.89478,
+        "Y": 198.75574,
+        "Z": 47.105217
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -232.8948,
+        "Y": -128.60101,
+        "Z": 367.1052
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -212.89482,
+        "Y": -186.59924,
+        "Z": 457.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -82.894806,
+        "Y": 212.96974,
+        "Z": -52.894783
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 97.10522,
+        "Y": 134.13376,
+        "Z": 137.10518
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 182.10526,
+        "Y": -82.111244,
+        "Z": 327.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 202.10524,
+        "Y": -147.83772,
+        "Z": 557.1053
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 447.10522,
+        "Y": 110.74235,
+        "Z": -172.89478
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 457.10526,
+        "Y": -139.03331,
+        "Z": 682.1053
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 572.1052,
+        "Y": -98.54395,
+        "Z": 452.10526
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 702.10516,
+        "Y": -65.53652,
+        "Z": -72.89477
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -752.8948,
+        "Y": -88.62523,
+        "Z": -712.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -352.8948,
+        "Y": 18.31066,
+        "Z": -752.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": -37.89482,
+        "Y": 8.457446,
+        "Z": -747.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 342.1052,
+        "Y": -43.754456,
+        "Z": -797.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 722.1052,
+        "Y": -98.68297,
+        "Z": -697.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 747.1052,
+        "Y": -11.396843,
+        "Z": -392.8948
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 401,
+      "Position": {
+        "X": 682.1053,
+        "Y": -158.27493,
+        "Z": 802.10516
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "818": [
+    {
+      "Zone": 818,
+      "Position": {
+        "X": 161.00006,
+        "Y": 278.83987,
+        "Z": 176.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": 381.00006,
+        "Y": 341.70108,
+        "Z": 76.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": 366.0,
+        "Y": 379.31876,
+        "Z": -654.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": 471.0,
+        "Y": 378.49673,
+        "Z": -519.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": 481.00006,
+        "Y": 439.87466,
+        "Z": -874.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": 621.0001,
+        "Y": 385.1749,
+        "Z": 11.000061
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": 730.99994,
+        "Y": 400.42804,
+        "Z": -84.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": 761.00006,
+        "Y": 414.21222,
+        "Z": -499.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": 805.99994,
+        "Y": 396.39917,
+        "Z": -254.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": -629.0,
+        "Y": 400.07468,
+        "Z": -634.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": -514.0,
+        "Y": 392.6355,
+        "Z": -834.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": -399.0,
+        "Y": 125.252304,
+        "Z": -209.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": -293.99997,
+        "Y": 378.35757,
+        "Z": -544.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": -293.99997,
+        "Y": 278.67426,
+        "Z": -79.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": -173.99998,
+        "Y": 360.26257,
+        "Z": -404.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": -9.000015,
+        "Y": 428.7681,
+        "Z": -709.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 818,
+      "Position": {
+        "X": 186.00006,
+        "Y": 358.31372,
+        "Z": -443.99997
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "139": [
+    {
+      "Zone": 139,
+      "Position": {
+        "X": -549.0,
+        "Y": -2.5839286,
+        "Z": -3.9999962
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": -493.99997,
+        "Y": 7.4108224,
+        "Z": 61.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": -468.99997,
+        "Y": -3.4000015,
+        "Z": 11.000061
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": -443.99997,
+        "Y": 0.8122241,
+        "Z": 101.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": -439.0,
+        "Y": -12.808677,
+        "Z": 211.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": -383.99997,
+        "Y": -2.8457398,
+        "Z": 221.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": 291.0,
+        "Y": -2.923905,
+        "Z": 111.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": 311.00006,
+        "Y": 16.285755,
+        "Z": -79.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": 336.00006,
+        "Y": 2.133703,
+        "Z": -3.9999962
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": 361.00006,
+        "Y": -3.4,
+        "Z": 36.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": 326.00003,
+        "Y": -2.7600827,
+        "Z": 206.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": 376.00003,
+        "Y": 3.306367,
+        "Z": -13.999939
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": 401.00003,
+        "Y": -3.4,
+        "Z": 121.00001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": 446.0,
+        "Y": -3.3999999,
+        "Z": 190.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": 596.0001,
+        "Y": -2.1459873,
+        "Z": 131.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": 586.00006,
+        "Y": -2.474028,
+        "Z": 215.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 139,
+      "Position": {
+        "X": 686.00006,
+        "Y": 1.2916768,
+        "Z": 111.00006
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "138": [
+    {
+      "Zone": 138,
+      "Position": {
+        "X": -429.0,
+        "Y": -33.297928,
+        "Z": -349.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": -343.99997,
+        "Y": -39.393875,
+        "Z": -364.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": -364.0,
+        "Y": -37.1919,
+        "Z": -283.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": -358.99997,
+        "Y": -39.52915,
+        "Z": -218.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": -374.0,
+        "Y": -40.65274,
+        "Z": 686.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": -268.99997,
+        "Y": -41.60006,
+        "Z": -349.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": -268.99997,
+        "Y": -39.12941,
+        "Z": 646.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": -218.99997,
+        "Y": -39.970436,
+        "Z": -104.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": -223.99998,
+        "Y": -40.001225,
+        "Z": 726.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": -93.99996,
+        "Y": -30.31683,
+        "Z": -98.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": -63.99994,
+        "Y": -27.833282,
+        "Z": -154.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": -84.000015,
+        "Y": -24.869083,
+        "Z": 21.000004
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": 81.000046,
+        "Y": -11.387166,
+        "Z": 11.000061
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": 90.999985,
+        "Y": -14.109747,
+        "Z": 156.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": 161.00006,
+        "Y": -15.826022,
+        "Z": 61.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": 231.00005,
+        "Y": -13.162068,
+        "Z": 101.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": 306.00006,
+        "Y": -10.051404,
+        "Z": 126.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": 376.00003,
+        "Y": -14.180627,
+        "Z": 186.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": 466.0,
+        "Y": 11.834482,
+        "Z": 366.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": 486.00006,
+        "Y": 12.861961,
+        "Z": 296.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": 516.0,
+        "Y": 16.382826,
+        "Z": 361.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": 576.00006,
+        "Y": 7.360628,
+        "Z": 416.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 138,
+      "Position": {
+        "X": 626.00006,
+        "Y": 40.188866,
+        "Z": 331.00006
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "140": [
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -654.0,
+        "Y": 61.72848,
+        "Z": -799.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -564.0,
+        "Y": 53.30873,
+        "Z": -754.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -559.0,
+        "Y": 57.264896,
+        "Z": -813.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -468.99997,
+        "Y": 50.92298,
+        "Z": -779.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -474.0,
+        "Y": 50.468,
+        "Z": -699.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -368.99997,
+        "Y": 14.893506,
+        "Z": -684.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -323.99997,
+        "Y": 14.894261,
+        "Z": -774.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -229.0,
+        "Y": 14.513825,
+        "Z": -248.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -159.00002,
+        "Y": 14.513841,
+        "Z": -323.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -159.00002,
+        "Y": 14.513844,
+        "Z": -204.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -129.0,
+        "Y": 47.442238,
+        "Z": 396.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -59.000015,
+        "Y": 64.7347,
+        "Z": 391.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -13.999939,
+        "Y": 17.189304,
+        "Z": 126.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -38.99994,
+        "Y": 47.873215,
+        "Z": 206.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": -9.000015,
+        "Y": 55.93741,
+        "Z": 316.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": 21.000004,
+        "Y": 60.482372,
+        "Z": 26.000023
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": 40.999985,
+        "Y": 17.257809,
+        "Z": 126.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": 65.999985,
+        "Y": 59.182465,
+        "Z": -68.99996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": 61.00006,
+        "Y": 45.61768,
+        "Z": 161.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": 236.00006,
+        "Y": 63.531246,
+        "Z": -113.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": 231.00005,
+        "Y": 55.921654,
+        "Z": 240.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 140,
+      "Position": {
+        "X": 266.0,
+        "Y": 64.48316,
+        "Z": -229.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "614": [
+    {
+      "Zone": 614,
+      "Position": {
+        "X": -458.99997,
+        "Y": 37.507942,
+        "Z": 451.00003
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": -193.99997,
+        "Y": 10.56128,
+        "Z": 641.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": -229.0,
+        "Y": 54.618183,
+        "Z": -383.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": -159.00002,
+        "Y": 65.37312,
+        "Z": -268.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": 6.000042,
+        "Y": 57.560772,
+        "Z": -604.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": 106.000046,
+        "Y": 42.59873,
+        "Z": -504.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": 281.00006,
+        "Y": 27.919058,
+        "Z": -554.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": 371.0,
+        "Y": 55.302094,
+        "Z": -504.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": 106.000046,
+        "Y": 4.28336,
+        "Z": 286.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": 156.00005,
+        "Y": 43.512894,
+        "Z": 11.000061
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": 416.0,
+        "Y": 14.240922,
+        "Z": 691.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": 546.0001,
+        "Y": 42.896767,
+        "Z": -148.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": 636.00006,
+        "Y": 59.097153,
+        "Z": 256.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 614,
+      "Position": {
+        "X": -159.00002,
+        "Y": 53.217514,
+        "Z": -549.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "957": [
+    {
+      "Zone": 957,
+      "Position": {
+        "X": -148.99998,
+        "Y": 84.154144,
+        "Z": -499.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 957,
+      "Position": {
+        "X": -349.0,
+        "Y": 73.38032,
+        "Z": -464.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 957,
+      "Position": {
+        "X": -179.0,
+        "Y": 86.827644,
+        "Z": -254.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 957,
+      "Position": {
+        "X": 401.00003,
+        "Y": 7.7080593,
+        "Z": -389.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 957,
+      "Position": {
+        "X": -154.0,
+        "Y": 38.516792,
+        "Z": 106.000046
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 957,
+      "Position": {
+        "X": -48.999977,
+        "Y": 18.513264,
+        "Z": 491.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 957,
+      "Position": {
+        "X": 266.0,
+        "Y": 22.39531,
+        "Z": -28.999996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 957,
+      "Position": {
+        "X": 311.00006,
+        "Y": 4.3829737,
+        "Z": 201.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 957,
+      "Position": {
+        "X": 555.99994,
+        "Y": 14.975494,
+        "Z": -68.99996
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "956": [
+    {
+      "Zone": 956,
+      "Position": {
+        "X": -223.99998,
+        "Y": 90.27942,
+        "Z": -594.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 956,
+      "Position": {
+        "X": 421.0,
+        "Y": 177.70923,
+        "Z": -664.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 956,
+      "Position": {
+        "X": 636.00006,
+        "Y": 172.91873,
+        "Z": -399.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 956,
+      "Position": {
+        "X": 541.0,
+        "Y": 81.12816,
+        "Z": 221.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 956,
+      "Position": {
+        "X": -779.0,
+        "Y": -13.971357,
+        "Z": 605.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 956,
+      "Position": {
+        "X": -539.0,
+        "Y": -16.081104,
+        "Z": -109.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 956,
+      "Position": {
+        "X": -468.99997,
+        "Y": -25.295382,
+        "Z": 691.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 956,
+      "Position": {
+        "X": -234.00002,
+        "Y": -14.224467,
+        "Z": -234.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 956,
+      "Position": {
+        "X": -93.99996,
+        "Y": -15.534124,
+        "Z": 855.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 956,
+      "Position": {
+        "X": 196.00002,
+        "Y": -22.533484,
+        "Z": 176.00003
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "958": [
+    {
+      "Zone": 958,
+      "Position": {
+        "X": -579.0,
+        "Y": 21.243156,
+        "Z": -493.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 958,
+      "Position": {
+        "X": -483.99997,
+        "Y": 24.796152,
+        "Z": -213.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 958,
+      "Position": {
+        "X": -468.99997,
+        "Y": 16.1336,
+        "Z": -429.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 958,
+      "Position": {
+        "X": -279.0,
+        "Y": 17.85477,
+        "Z": -88.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 958,
+      "Position": {
+        "X": 96.00001,
+        "Y": -5.942514,
+        "Z": 215.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 958,
+      "Position": {
+        "X": 306.00006,
+        "Y": -19.636517,
+        "Z": 626.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 958,
+      "Position": {
+        "X": 381.00006,
+        "Y": 14.65852,
+        "Z": -28.999996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 958,
+      "Position": {
+        "X": 551.00006,
+        "Y": -19.757347,
+        "Z": 555.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 958,
+      "Position": {
+        "X": 580.99994,
+        "Y": 13.031812,
+        "Z": 21.000004
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "959": [
+    {
+      "Zone": 959,
+      "Position": {
+        "X": -248.99998,
+        "Y": 61.57165,
+        "Z": 366.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 959,
+      "Position": {
+        "X": -28.999996,
+        "Y": 83.488846,
+        "Z": 661.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 959,
+      "Position": {
+        "X": 136.00006,
+        "Y": 74.61146,
+        "Z": 601.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 959,
+      "Position": {
+        "X": 426.00003,
+        "Y": 112.207436,
+        "Z": 426.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 959,
+      "Position": {
+        "X": 751.00006,
+        "Y": 148.47252,
+        "Z": 281.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 959,
+      "Position": {
+        "X": -554.0,
+        "Y": 143.99316,
+        "Z": 131.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 959,
+      "Position": {
+        "X": -209.00002,
+        "Y": 71.22254,
+        "Z": 165.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 959,
+      "Position": {
+        "X": -143.99995,
+        "Y": 76.14011,
+        "Z": 11.000061
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 959,
+      "Position": {
+        "X": 140.99998,
+        "Y": 60.757175,
+        "Z": 101.00002
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 959,
+      "Position": {
+        "X": 336.00006,
+        "Y": 66.85706,
+        "Z": 266.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "960": [
+    {
+      "Zone": 960,
+      "Position": {
+        "X": -323.99997,
+        "Y": 79.937256,
+        "Z": 730.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 960,
+      "Position": {
+        "X": -254.0,
+        "Y": 78.77643,
+        "Z": 226.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 960,
+      "Position": {
+        "X": -193.99997,
+        "Y": 66.260994,
+        "Z": 441.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 960,
+      "Position": {
+        "X": -13.999939,
+        "Y": 62.213154,
+        "Z": 636.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 960,
+      "Position": {
+        "X": -659.0,
+        "Y": 72.13764,
+        "Z": -59.000015
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 960,
+      "Position": {
+        "X": -474.0,
+        "Y": 66.40327,
+        "Z": 26.000023
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 960,
+      "Position": {
+        "X": -408.99997,
+        "Y": 263.85297,
+        "Z": -554.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 960,
+      "Position": {
+        "X": -109.000015,
+        "Y": 285.5482,
+        "Z": -589.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 960,
+      "Position": {
+        "X": 326.00003,
+        "Y": 289.56516,
+        "Z": -458.99997
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "961": [
+    {
+      "Zone": 961,
+      "Position": {
+        "X": -443.99997,
+        "Y": 301.50174,
+        "Z": -579.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 961,
+      "Position": {
+        "X": -9.000015,
+        "Y": 137.16017,
+        "Z": -408.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 961,
+      "Position": {
+        "X": 11.000061,
+        "Y": 138.38562,
+        "Z": -764.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 961,
+      "Position": {
+        "X": 561.00006,
+        "Y": 138.58543,
+        "Z": -148.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 961,
+      "Position": {
+        "X": 621.0001,
+        "Y": 176.36499,
+        "Z": -539.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 961,
+      "Position": {
+        "X": 636.00006,
+        "Y": 145.0,
+        "Z": -364.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 961,
+      "Position": {
+        "X": -729.0,
+        "Y": -42.598236,
+        "Z": 376.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 961,
+      "Position": {
+        "X": -429.0,
+        "Y": -41.22403,
+        "Z": 536.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 961,
+      "Position": {
+        "X": -173.99998,
+        "Y": -43.240494,
+        "Z": 436.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 961,
+      "Position": {
+        "X": -143.99995,
+        "Y": -12.36571,
+        "Z": 151.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 961,
+      "Position": {
+        "X": 411.00006,
+        "Y": -9.488555,
+        "Z": 296.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "1187": [
+    {
+      "Zone": 1187,
+      "Position": {
+        "X": -504.0,
+        "Y": -15.74,
+        "Z": -619.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1187,
+      "Position": {
+        "X": -134.0,
+        "Y": -109.61,
+        "Z": -374.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1187,
+      "Position": {
+        "X": 6.0,
+        "Y": -99.09,
+        "Z": -234.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1187,
+      "Position": {
+        "X": 361.0,
+        "Y": -148.24,
+        "Z": -609.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1187,
+      "Position": {
+        "X": 621.0,
+        "Y": -69.2,
+        "Z": -124.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1187,
+      "Position": {
+        "X": -704.0,
+        "Y": 64.57711,
+        "Z": 201.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1187,
+      "Position": {
+        "X": -289.0,
+        "Y": 62.633625,
+        "Z": 131.00005
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1187,
+      "Position": {
+        "X": 6.000042,
+        "Y": 24.049103,
+        "Z": -53.999996
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1187,
+      "Position": {
+        "X": 331.00006,
+        "Y": 59.595013,
+        "Z": 46.000004
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "1188": [
+    {
+      "Zone": 1188,
+      "Position": {
+        "X": -614.0,
+        "Y": 1.2241395,
+        "Z": -679.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1188,
+      "Position": {
+        "X": -744.0,
+        "Y": -0.4,
+        "Z": -479.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1188,
+      "Position": {
+        "X": -254.0,
+        "Y": -0.4,
+        "Z": -214.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1188,
+      "Position": {
+        "X": 765.14,
+        "Y": 11.92,
+        "Z": -57.00
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 1188,
+      "Position": {
+        "X": -814.0,
+        "Y": 129.53023,
+        "Z": 361.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1188,
+      "Position": {
+        "X": -289.0,
+        "Y": 109.2,
+        "Z": 96.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1188,
+      "Position": {
+        "X": 641.0,
+        "Y": 122.775314,
+        "Z": 736.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1188,
+      "Position": {
+        "X": -59.0,
+        "Y": 109.2,
+        "Z": 346.0
+      },
+      "CancelAnimation": false
+    },
+    {
+      "Zone": 1188,
+      "Position": {
+        "X": 126.0,
+        "Y": 109.2,
+        "Z": 756.0
+      },
+      "CancelAnimation": false
+    }
+  ],
+  "1189": [
+    {
+      "Zone": 1189,
+      "Position": {
+        "X": -759.0,
+        "Y": -159.196,
+        "Z": 246.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1189,
+      "Position": {
+        "X": -399.0,
+        "Y": -148.12218,
+        "Z": 211.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1189,
+      "Position": {
+        "X": 16.0,
+        "Y": -172.4847,
+        "Z": 346.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1189,
+      "Position": {
+        "X": -4.0,
+        "Y": -168.65036,
+        "Z": 746.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1189,
+      "Position": {
+        "X": 161.00006,
+        "Y": -163.62703,
+        "Z": 580.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1189,
+      "Position": {
+        "X": -649.0,
+        "Y": 23.58951,
+        "Z": -104.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1189,
+      "Position": {
+        "X": 96.00001,
+        "Y": 5.0544224,
+        "Z": -364.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1189,
+      "Position": {
+        "X": 246.00002,
+        "Y": 16.74944,
+        "Z": -594.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1189,
+      "Position": {
+        "X": 586.00006,
+        "Y": 14.117028,
+        "Z": -263.99994
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "1190": [
+    {
+      "Zone": 1190,
+      "Position": {
+        "X": -624.0,
+        "Y": 30.130278,
+        "Z": -244.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1190,
+      "Position": {
+        "X": -409.0,
+        "Y": 7.5415487,
+        "Z": 291.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1190,
+      "Position": {
+        "X": 31.000042,
+        "Y": 6.483941,
+        "Z": 331.00006
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1190,
+      "Position": {
+        "X": 15.999985,
+        "Y": 0.7821957,
+        "Z": 596.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1190,
+      "Position": {
+        "X": 186.00006,
+        "Y": -8.607718,
+        "Z": 90.999985
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1190,
+      "Position": {
+        "X": -269.0,
+        "Y": 38.351913,
+        "Z": -659.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1190,
+      "Position": {
+        "X": 81.0,
+        "Y": -0.84870636,
+        "Z": -129.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1190,
+      "Position": {
+        "X": 641.0,
+        "Y": -12.8879175,
+        "Z": -749.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1190,
+      "Position": {
+        "X": 496.0,
+        "Y": -2.5225186,
+        "Z": 91.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "1192": [
+    {
+      "Zone": 1192,
+      "Position": {
+        "X": -859.0,
+        "Y": -0.6,
+        "Z": 371.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1192,
+      "Position": {
+        "X": -449.0,
+        "Y": -0.380071,
+        "Z": 816.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1192,
+      "Position": {
+        "X": 271.0,
+        "Y": -0.9464706,
+        "Z": 491.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1192,
+      "Position": {
+        "X": 871.0,
+        "Y": 14.237072,
+        "Z": 431.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1192,
+      "Position": {
+        "X": -814.0,
+        "Y": -5.0,
+        "Z": -434.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1192,
+      "Position": {
+        "X": -429.0,
+        "Y": -0.1,
+        "Z": 311.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1192,
+      "Position": {
+        "X": -124.0,
+        "Y": 38.0,
+        "Z": -64.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1192,
+      "Position": {
+        "X": 571.0,
+        "Y": 27.277029,
+        "Z": -29.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1192,
+      "Position": {
+        "X": 786.0,
+        "Y": 19.124575,
+        "Z": -139.0
+      },
+      "CancelAnimation": true
+    }
+  ],
+  "1191": [
+    {
+      "Zone": 1191,
+      "Position": {
+        "X": 136.0,
+        "Y": 101.626045,
+        "Z": -89.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1191,
+      "Position": {
+        "X": 286.00006,
+        "Y": 84.68758,
+        "Z": -383.99997
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1191,
+      "Position": {
+        "X": 406.00006,
+        "Y": 89.24331,
+        "Z": -98.99998
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1191,
+      "Position": {
+        "X": 406.00006,
+        "Y": 133.66055,
+        "Z": 421.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1191,
+      "Position": {
+        "X": 771.0001,
+        "Y": 142.09271,
+        "Z": -439.0
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1191,
+      "Position": {
+        "X": -664.0,
+        "Y": -14.000011,
+        "Z": 596.0001
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1191,
+      "Position": {
+        "X": -439.0,
+        "Y": 23.680597,
+        "Z": -38.99994
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1191,
+      "Position": {
+        "X": -343.99997,
+        "Y": 22.357342,
+        "Z": 226.00003
+      },
+      "CancelAnimation": true
+    },
+    {
+      "Zone": 1191,
+      "Position": {
+        "X": 301.00003,
+        "Y": 95.53583,
+        "Z": 611.00006
+      },
+      "CancelAnimation": true
+    }
+  ]
+}
