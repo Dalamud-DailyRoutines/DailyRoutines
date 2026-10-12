@@ -11,7 +11,7 @@
   <a href="https://discord.gg/dailyroutines"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-[中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | 한국어 | [Français](README.fr.md) | [Deutsch](README.de.md)
+[中文](README.md) | [日本語](README.ja.md) | 한국어
 
 </div>
 
@@ -28,7 +28,7 @@
 ## 다국어 지원 / 기여
 
 <a href="https://explore.transifex.com/dailyroutines/dailyroutines/">
-  <img src="https://img.shields.io/badge/Transifex-中文 | English | 日本語 | 한국어 | Français | Deutsch-ff6600?logo=transifex&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transifex-中文 | 日本語 | 한국어-ff6600?logo=transifex&logoColor=white&style=for-the-badge" />
 </a>
 
 ## 면책 조항
